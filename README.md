@@ -1,1 +1,1 @@
-# ssbuMemoApp
+# ssbuMemoApp github connect
